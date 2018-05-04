@@ -1,14 +1,14 @@
 # spring-boot-kotlin
 Kotlin – How to start Kotlin development with SpringBoot + Maven
 
-What is Kotlin?
+# What is Kotlin?
 Kotlin is open source statically typed(type safety) programming language introduced by jetbrains
 Kotlin runs on the Java virtual machine so it works great with all existing Java libraries/frameworks and runs with the same level of performance as Java.
 It supports all object oriented programing principle & the main advantages it greatly support functional and reactive programming
-Release history of kotlin:
+# Release history of kotlin:
 •	Kotlin v1.0 was released on February 15, 2016. This is considered to be the first officially stable release •	in 2017, google comes with KOTLIN project by jetbrains and adopted as a first language for android development •	Kotlin v1.2 was released on November 28, 2017.Sharing Code between JVM and JavaScript platforms feature was newly added to this release.
 
-What are the advantages of Kotlin over Java?
+# What are the advantages of Kotlin over Java?
 Kotlin is derived from the java language and inherits its advantage and overcomes its limitations. Below are some advantages of kotlin over java.
 
 •	Concise - Drastically reduce the amount of boilerplate code.
